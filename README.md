@@ -1,7 +1,7 @@
 ### Oi, sou o Pedro Henrique Louback Campos.
 
 - 📚 Eu atualmente estudo Engenharia da Computação no CEFET-MG Campus V (Divinópolis-MG) e estou no 3º período.
-- 🔭 Uso o GitHub ás vezes para tirar algumas dúvidas e deixo aqui meus repositórios que são meus trabalhos e atividades feitas durante o curso.
+- 🔭 Uso o GitHub as vezes para tirar algumas dúvidas e deixo aqui meus repositórios que são meus trabalhos e atividades feitas durante o curso.
 
 ##
 
