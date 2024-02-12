@@ -7,7 +7,7 @@
 
 - 👨‍💻 All my projects are available in my [repository](https://github.com/PedroLouback?tab=repositories)
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Contact me:</h3>
 <p align="left">
 <div> 
   <a href="https://www.instagram.com/louback_pedro" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
