@@ -22,6 +22,6 @@
 
 <div align="center">
   <a href="https://github.com/PedroLouback">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=PedroLouback&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=PedroLouback&layout=compact&langs_count=7&theme=blue-green"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=PedroLouback&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=PedroLouback&layout=compact&langs_count=7&theme=dark"/>
 </div>
