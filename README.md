@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pedro Henrique Louback Campos</h1>
-<h3 align="center">A student in the 7th period of Computer Engineering at CEFET-MG</h3>
+<h3 align="center">A student in the 8th period of Computer Engineering at CEFET-MG</h3>
 
 - 👩🏻‍💻 I am currently an internship in backend development on **[Hedro Sistemas Inteligentes](https://github.com/hedrosistemas)**
 
