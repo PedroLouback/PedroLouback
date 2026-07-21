@@ -12,7 +12,7 @@
 ### 🧭 Sobre mim
 
 - 💻 Atuo como desenvolvedor backend na **[Hedro Sistemas Inteligentes](https://github.com/hedrosistemas)**, trabalhando com **microsserviços em Rust** dentro de uma plataforma de IoT para gestão de ativos industriais, além de análise de dados com **Python/SQL** e geração de relatórios.
-- 🎓 Cursando o 9º período de **Engenharia de Computação** no CEFET-MG.
+- 🎓 Cursando o 10º período de **Engenharia de Computação** no CEFET-MG.
 - 🦀 Aprofundando conhecimento em **Rust**, aplicado no dia a dia profissional em sistemas de backend.
 - 🤖 Estudando como usar **IA de forma prática no desenvolvimento de software** — arquiteturas multi-agente, integração com LLMs via API/OpenRouter e ferramentas de produtividade para o fluxo de trabalho do dev.
 - 🔧 Curioso por sistemas de baixo nível, hardware e engenharia embarcada de forma geral.
