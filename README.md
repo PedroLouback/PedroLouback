@@ -70,4 +70,4 @@
 
 ### 📊 GitHub Stats
 
-<a href="https://github-stats-extended.vercel.app/api?username=pedroloubac"><img src="https://github-stats-extended.vercel.app/api?username=pedrolouback"></a>
+<a href="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=pedrolouback&&show_icons=true&theme=dark"><img src="https://github-stats-extended.vercel.app/api?username=pedrolouback"></a>
