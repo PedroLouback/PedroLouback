@@ -70,4 +70,4 @@
 
 ### 📊 GitHub Stats
 
-[![Pedro Louback's GitHub stats](https://github-stats-extended.vercel.app/api?username=PedroLouback)](https://github.com/stats-organization/github-stats-extended)
+<a href="https://github-stats-extended.vercel.app/api?username=pedroloubac"><img src="https://github-stats-extended.vercel.app/api?username=pedrolouback"></a>
