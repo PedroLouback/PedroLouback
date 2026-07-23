@@ -11,7 +11,7 @@
 
 ### 🧭 Sobre mim
 
-- 💻 Atuo como desenvolvedor backend na **[Hedro Sistemas Inteligentes](https://github.com/hedrosistemas)**, trabalhando com **microsserviços em Rust** dentro de uma plataforma de IoT para gestão de ativos industriais, além de análise de dados com **Python/SQL** e geração de relatórios.
+- 💻 Atuo como desenvolvedor backend na **[Hedro Sistemas Inteligentes](https://github.com/hedrosistemas)**, trabalhando com **microsserviços em Rust** dentro de uma plataforma de IoT para gestão de ativos industriais.
 - 🎓 Cursando o 10º período de **Engenharia de Computação** no CEFET-MG.
 - 🦀 Aprofundando conhecimento em **Rust**, aplicado no dia a dia profissional em sistemas de backend.
 - 🤖 Estudando como usar **IA de forma prática no desenvolvimento de software** — arquiteturas multi-agente, integração com LLMs via API/OpenRouter e ferramentas de produtividade para o fluxo de trabalho do dev.
@@ -70,4 +70,7 @@
 
 ### 📊 GitHub Stats
 
-<a href="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=pedrolouback&&show_icons=true&theme=dark"><img src="https://github-stats-extended.vercel.app/api?username=pedrolouback"></a>
+<p align="center">
+  <img height="180em" src="https://github-readme-stats-three-pi-25.vercel.app/api?username=PedroLouback&show_icons=true&theme=dark&count_private=true&include_all_commits=true"/>
+  <img height="180em" src="https://github-readme-stats-three-pi-25.vercel.app/api/top-langs/?username=PedroLouback&layout=compact&langs_count=7&theme=dark&count_private=true"/>
+</p>
